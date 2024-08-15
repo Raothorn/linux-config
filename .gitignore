@@ -1,0 +1,6 @@
+* 
+# !*/
+
+!.gitignore
+!.config/
+!.local/share/nvim/lua/
